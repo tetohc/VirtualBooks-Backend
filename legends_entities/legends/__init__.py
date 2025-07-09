@@ -1,0 +1,4 @@
+from .legend_create_entity import LegendCreateEntity
+from .legend_detail_entity import LegendDetailEntity
+from .legend_entity import LegendEntity
+from .legend_index_entity import LegendIndexEntity
