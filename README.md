@@ -78,8 +78,8 @@ Authorization: Bearer <tu_token>
 ### 📥 Clona el repositorio
 
 ```bash
-git clone https://github.com/tetohc/4thewords_backend_jerry_hurtado.git
-cd 4thewords_backend_jerry_hurtado
+git clone https://github.com/tetohc/VirtualBooks-Backend.git
+cd VirtualBooks-Backend
 ```
 
 ### 🧪Crea y activa el entorno virtual
