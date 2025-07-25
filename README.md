@@ -21,6 +21,7 @@ La API requiere autenticación vía JWT para realizar **cualquier petición**.
 Debes hacer login con correo y contraseña para obtener tu **token**.  
 Este token debe enviarse en el header `Authorization` con el formato:
 Authorization: Bearer <tu_token>
+
 ---
 
 ## 🛠️ Endpoints
